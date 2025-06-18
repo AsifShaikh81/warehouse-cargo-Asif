@@ -449,7 +449,7 @@ position: absolute;
 
 /* --------about-us-card-------------- */
  .abt-us-bg{
-    background-image: url("/img/about_bg.png");
+    background-image: url("img/about_bg.png");
     background-size: cover;
     background-repeat: no-repeat;
     padding: 60px 0;
@@ -563,7 +563,7 @@ position: absolute;
 
 .container-2{
      position: relative;
-    background-image: url('/img/track_bg.png');
+    background-image: url('img/track_bg.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-size: cover;
